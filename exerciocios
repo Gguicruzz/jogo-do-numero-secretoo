@@ -1,0 +1,6 @@
+function calcula(altura,masa){
+    let imc = peso / altura * altura
+ }
+
+ calcula();
+
